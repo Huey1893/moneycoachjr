@@ -1,2 +1,2 @@
-\# moneymentorjunior
+\# moneycoachjr
 
